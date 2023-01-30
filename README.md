@@ -1,1 +1,1 @@
-This is a Python script that solves slitherlink logic puzzles from the website https://www.puzzle-loop.com/. The algorithm is functional, and I will clean it up and streamline it in the future including adding backtracking capabilities.
+This is a Python script that solves slitherlink logic puzzles from the website https://www.puzzle-loop.com/. The algorithm propogates the constraints (rules) of the game. In the future, I will streamline it and add backtracking capabilities for solving harder puzzles.
